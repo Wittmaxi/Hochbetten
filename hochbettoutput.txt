@@ -1,0 +1,396 @@
+The maximum eigenvalue of the adjacency matrix is: 3.0
+We had 1 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 2 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 3 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 4 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999996
+We had 5 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000007
+We had 6 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 7 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 8 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 9 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 10 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999982
+We had 11 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 12 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999956
+We had 13 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 14 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 15 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999987
+We had 16 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000009
+We had 17 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 18 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 19 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000007
+We had 20 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000115
+We had 21 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999956
+We had 22 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 23 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.99999999999999
+We had 24 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 25 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 26 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 27 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999992
+We had 28 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999916
+We had 29 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000014
+We had 30 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999973
+We had 31 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 32 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 33 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 34 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 35 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 36 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 37 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999989
+We had 38 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999853
+We had 39 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000016
+We had 40 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000012
+We had 41 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 42 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 43 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999973
+We had 44 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 45 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 46 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999996
+We had 47 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 48 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 49 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 50 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999956
+We had 51 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999994
+We had 52 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 53 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999996
+We had 54 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 55 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999982
+We had 56 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 57 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 58 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 59 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 60 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 61 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 62 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 63 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 64 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000007
+We had 65 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.00000000000001
+We had 66 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 67 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999933
+We had 68 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999997
+We had 69 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 70 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000014
+We had 71 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 72 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 73 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999989
+We had 74 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 75 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999995
+We had 76 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000004
+We had 77 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 78 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999997
+We had 79 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 80 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 81 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 82 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 83 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 84 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 85 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999997
+We had 86 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999933
+We had 87 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 88 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 89 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 90 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 91 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 92 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999987
+We had 93 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 94 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999996
+We had 95 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999987
+We had 96 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 97 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000008
+We had 98 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 99 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.0
+We had 1 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 2 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 3 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 4 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999996
+We had 5 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000007
+We had 6 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 7 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 8 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 9 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 10 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999982
+We had 11 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 12 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999956
+We had 13 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 14 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 15 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999987
+We had 16 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000009
+We had 17 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 18 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 19 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000007
+We had 20 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000115
+We had 21 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999956
+We had 22 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 23 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.99999999999999
+We had 24 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 25 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 26 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 27 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999992
+We had 28 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999916
+We had 29 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000014
+We had 30 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999973
+We had 31 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 32 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 33 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 34 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 35 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 36 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 37 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999989
+We had 38 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999853
+We had 39 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000016
+We had 40 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000012
+We had 41 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 42 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 43 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999973
+We had 44 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 45 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 46 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999996
+We had 47 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 48 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 49 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 50 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999956
+We had 51 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999994
+We had 52 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 53 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999996
+We had 54 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 55 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999982
+We had 56 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 57 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000005
+We had 58 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 59 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 60 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0
+We had 61 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 62 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 63 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 64 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000007
+We had 65 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.00000000000001
+We had 66 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 67 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999933
+We had 68 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999997
+We had 69 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 70 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000014
+We had 71 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 72 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 73 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999989
+We had 74 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 75 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999995
+We had 76 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000004
+We had 77 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 78 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999997
+We had 79 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 80 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 81 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 82 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000006
+We had 83 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 84 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 85 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999997
+We had 86 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999933
+We had 87 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 88 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000002
+We had 89 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.999999999999998
+We had 90 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.0000000000000036
+We had 91 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 92 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999987
+We had 93 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999964
+We had 94 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999996
+We had 95 nodes
+The maximum eigenvalue of the adjacency matrix is: 3.9999999999999987
+We had 96 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000001
+We had 97 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000008
+We had 98 nodes
+The maximum eigenvalue of the adjacency matrix is: 4.000000000000003
+We had 99 nodes
